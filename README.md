@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+## Screenshots
+![Screenshot_1716146548 (3)](https://github.com/jaythanki18/square_split/assets/108997046/dc470ef5-9e34-4ab9-8aac-a73497c69c4d)
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
